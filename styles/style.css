@@ -1,0 +1,22 @@
+.header {
+  min-height: 43.625rem;
+  background-color: #264653;
+}
+.custom-btn {
+  background-color: #e76f51;
+  border: #e76f51;
+}
+.line {
+  border: 1px solid red;
+}
+.future-color {
+  filter: grayscale(75%);
+}
+.icons {
+  width: 20px;
+}
+
+.footer {
+  min-height: 280px;
+  background-color: black;
+}
